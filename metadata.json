@@ -1,0 +1,6 @@
+{
+  "name": "FitMind AI",
+  "description": "An AI-powered premium Health, Fitness, and Wellness SaaS Platform with custom coaches, workout builders, diet plans, and wellness trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
